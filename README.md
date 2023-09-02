@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Brian.
+- 👋 Hi, I’m @Brian Kibet.
 - 👀 I’m interested in data science and analytics.
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning machine learning and web scrping.
 - 💞️ I’m looking to collaborate on data science Projects.
 
 
